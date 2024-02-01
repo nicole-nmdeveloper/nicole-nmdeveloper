@@ -3,7 +3,6 @@
 - 💻 Web Developer | Desenvolvedora Web
 - ✨ I’m currently working on personal projects | Estou atualmente trabalhando em projetos pessoais
 - 💛 I’m currently learning more about JavaScript Ecosystem | Estou atualmente aprendendo mais sobre o Ecossistema JavaScript
-- 😊 Fun Fact: The first programming language that I learned was C# | Fato curioso: A primeira linguagem de programação que aprendi foi C#
 
 ## Main Technologies | Principais Tecnologias
 
