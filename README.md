@@ -1,4 +1,4 @@
-## Welcome | Bem vindo(a)
+## Welcome | Bem-vindo(a)
 
 Front-End Developer and UI Designer.
 
